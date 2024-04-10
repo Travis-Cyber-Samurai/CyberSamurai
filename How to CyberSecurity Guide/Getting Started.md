@@ -31,13 +31,21 @@ SO TO STRESS THIS, WHEN YOU RESEARCH ANG GOOGLE GO IN DEPTH, DISECT AND UNDERSTA
 Some key protocols and applications to reserach and know when going into the competition are: 
 
 HTTP/S: Apache2, IIS
+
 DNS: Windows DNS, Bind9
+
 Remote Management: OpenSSH, RDP
+
 Database Technology: MySQL/MariaDB, MSSQL 
+
 Mail: Exchange, MailEnable, Postfix, Sendmail
+
 File Sharing: FTP (vsFTPd, Filezilla, etc.), SMB (Samba, Windows SMB)
+
 CMS: WordPress, Joomla
+
 VPN: OpenVPN
+
 Identity Management: Active Directory Domain Services
 
 
