@@ -9,7 +9,7 @@ You will struggle and be googling and researching a lot, it is just apart of bei
 NOTE 2: 
 
 This first seciton is about how to approach the competition and an overview.
-Go [here] for general resources 
+Go [here](General Resources) for general resources 
 Go [here] for linux resources 
 Go [here] for Windows resources 
 Go [here] for Cisco Resources 
@@ -153,3 +153,5 @@ As our team develops to a full team of 6, there are different roles that you sho
   - For example, since Cisco is a competition component which demands precision without live feedback,     another competitor with a Cisco background reviewing the primary Cisco individual’s work is             immensely valuable and can eliminate or minimize any possible minor mistakes which could have         significant consequences.
   -  Another advantages of this competitor include their fresh perspectives, solutions, and/or             assistance. This could include identifying workarounds for a broken system mechanism on the Linux       machine or offering to assist with more mundane, yet important tasks, allowing specialized             competitors to focus on more complex matters.
 
+
+# General Resouces
