@@ -8,15 +8,7 @@ You will struggle and be googling and researching a lot, it is just apart of bei
 
 NOTE 2: 
 
-This first seciton is about how to approach the competition and an overview.
-
-Go [here](#General-Resources) for general resources
-
-Go [here] for linux resources 
-
-Go [here] for Windows resources 
-
-Go [here] for Cisco Resources 
+This first seciton is about how to approach the competition and an overview. If you are looking for resources go to another tab. 
 
 # Preface
 Hi, my name is Daniel, known online as "Mambo" and sometimes Kitan. I have been competing in CyberPatriot for 2 years now and started at a school that did not have a CyberPatriot team till my sophmore your of high school, where we became a platinum competeting team and would be able to compete along side college students at CCDC, a Cyber Defense competition against active red team members at the regional level. I have a deep passion and focus for computer science, and software and AI/ML development as well as, an interest in red teaming and cybersecurity. I hope that the following information can help whoever is reading this become successful in taking on the daunting task of learning Cybersecurity in CyberPatriot and on onwards. 
@@ -158,4 +150,6 @@ As our team develops to a full team of 6, there are different roles that you sho
   -  Another advantages of this competitor include their fresh perspectives, solutions, and/or             assistance. This could include identifying workarounds for a broken system mechanism on the Linux       machine or offering to assist with more mundane, yet important tasks, allowing specialized             competitors to focus on more complex matters.
 
 
-# General Resources
+#Last Note:
+
+  REMEMBER TO ENJOY THE PROCESS AND PRACTICE EARLY AND OFTEN FOR THE COMPETITION AND ANYTHING ELSE YOU WANT TO LEARN. Have Fun :3 
