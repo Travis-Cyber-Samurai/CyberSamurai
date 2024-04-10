@@ -9,7 +9,7 @@ You will struggle and be googling and researching a lot, it is just apart of bei
 NOTE 2: 
 
 This first seciton is about how to approach the competition and an overview.
-Go [here](Getting Started.md/General Resources) for general resources
+Go [here](#General Resources) for general resources
 
 Go [here] for linux resources 
 
