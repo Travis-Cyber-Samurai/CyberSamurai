@@ -28,7 +28,7 @@ As much as copying and using checklists and scripts would help you immensely goi
 
 SO TO STRESS THIS, WHEN YOU RESEARCH ANG GOOGLE GO IN DEPTH, DISECT AND UNDERSTAND THE PROBLEM, AND KNOW YOU WILL GET STUCK. Your reserach shouldnt send at Ubuntu ssh security settings and copying them in to a script without knowing it works. UNDERSTAND, PLAN, SCRIPT, DISECT, and LEARN why and how it works. This will help you with actually learning and tackling harder to challenge problems. 
 
-Some key protocols and applications to reserach and know when going into the competition are: 
+**Some key protocols and applications to reserach and know when going into the competition are:** 
 
 HTTP/S: Apache2, IIS
 
@@ -53,32 +53,49 @@ Identity Management: Active Directory Domain Services
 
 The majority of the competition tackles understanding the ins and outs of Linux and Windows (As well as Cisco).  Some key things to look into would be the Windows and Linux Checklists we have, other resources provided for practice, and actaul practice on the machine. 
 
-Basic System Mechanisms to look into would be: 
+**Basic System Mechanisms to look into would be:**
 
-Linux:
+**Linux:**
 
 User and Password Management: /etc/passwd, /etc/group, /etc/shadow
+
 Pluggable Authentication Modules (PAM)
+
 Tunable Kernel Parameters (Sysctl)
+
 Package Managers (APT/DNF)
+
 CRON
+
 Permissions
+
 Systemd
+
 Sudo
+
 Polkit
+
 UFW, Firewalld
+
 SElinus, Fail2Ban 
 
 
-Windows:
+**Windows:**
 
 Windows User Management
+
 Local Security Policy
+
 Group Policy
+
 Registry Editor
+
 Task Scheduler
+
 Windows Defender
+
 Permissions
+
 Service Manager
 
 
