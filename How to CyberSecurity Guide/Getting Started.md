@@ -68,5 +68,5 @@ Service Manager
 
 # Learn to Baseline 
 
-An important thing to do during the competition that will help you learn and find vulnerabilities is to baseline as well as attack your system (hacking). More will be provided here later but understanding what a default system looks like compared to your messed up one will help you greatly in actaully finding what is wrong with your system. Some things to look into would STIGS on all systems linked here: [here] (https://public.cyber.mil/stigs/downloads/)
+An important thing to do during the competition that will help you learn and find vulnerabilities is to baseline as well as attack your system (hacking). More will be provided here later but understanding what a default system looks like compared to your messed up one will help you greatly in actaully finding what is wrong with your system. Some things to look into would STIGS on all systems linked here: [here](https://public.cyber.mil/stigs/downloads/)
 
