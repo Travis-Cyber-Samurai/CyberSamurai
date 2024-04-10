@@ -10,7 +10,7 @@ NOTE 2:
 
 This first seciton is about how to approach the competition and an overview.
 
-Go [here](/Getting_Started.md/GeneralResources) for general resources
+Go [here](/Getting_Started.md/General Resources) for general resources
 
 Go [here] for linux resources 
 
