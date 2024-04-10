@@ -9,9 +9,12 @@ You will struggle and be googling and researching a lot, it is just apart of bei
 NOTE 2: 
 
 This first seciton is about how to approach the competition and an overview.
-Go [here](General Resources) for general resources 
+Go [here](Getting Started.md/General Resources) for general resources
+
 Go [here] for linux resources 
+
 Go [here] for Windows resources 
+
 Go [here] for Cisco Resources 
 
 # Preface
@@ -22,7 +25,7 @@ Clearly defining cyber patriot and the competition is going to be very important
 
 There are three sections to this introductory competition to cybersecurity: Linux, Windows, and CISCO (Networking). Linux is a operating system that is used by 90% of computers around the world. Windows and Windows Server is another operating system that is used by almost every user in the world. Lastly, Cisco sponsers this competiton so the networking trianing resources are tailored entirely towards Cisco resources and for good reason as they are a big player in the networking space.  These sections are important for everyone to know but having a deep focus in a specific area will overall be beneficial to your success in the competition. For me, I focus on Linux so this guide will provide mostly resources for Linux which I hope to expand in the future. 
 
-#Approach for the Competition: 
+# Approach for the Competition: 
 
 As much as copying and using checklists and scripts would help you immensely going throughout the competition the main thing that is supposed to be taught and will happen numerous times throughout the competition is researching when you are stuck. It is going to be beneficial to reframe your thinking of this competition to a reserach competition that is present before the competition (preperationg, during the competition, (finding unkown vulnerabilities), and after the competition (debrief and review). This applies to most things within tech and its adjacent fields as research is so important. 
 
