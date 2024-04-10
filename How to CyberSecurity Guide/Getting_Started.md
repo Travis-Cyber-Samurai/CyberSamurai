@@ -10,7 +10,7 @@ NOTE 2:
 
 This first seciton is about how to approach the competition and an overview.
 
-Go [here](/Getting_Started.md/#General) for general resources
+Go [here](#General-Resources) for general resources
 
 Go [here] for linux resources 
 
@@ -158,4 +158,4 @@ As our team develops to a full team of 6, there are different roles that you sho
   -  Another advantages of this competitor include their fresh perspectives, solutions, and/or             assistance. This could include identifying workarounds for a broken system mechanism on the Linux       machine or offering to assist with more mundane, yet important tasks, allowing specialized             competitors to focus on more complex matters.
 
 
-# General
+# General Resources
