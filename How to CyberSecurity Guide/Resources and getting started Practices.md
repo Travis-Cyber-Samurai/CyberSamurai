@@ -58,13 +58,21 @@ More info on CTFs in the Canvas.
 Here are some resources to help however: 
 
 [PicoCTF Primer](https://primer.picoctf.com/#_general)
+
 [Stegnagraphy Online](https://georgeom.net/StegOnline/upload) 
+
 [MetaData](https://www.metadata2go.com/result#j=96caba54-723d-41ed-9010-9351770167e2)
+
 [Visual Studio Code](https://code.visualstudio.com/)
+
 [A CTF Playbook](https://fareedfauzi.gitbook.io/ctf-playbook/a-few-tips)
+
 [John Hammond's CTF Playbook](https://github.com/JohnHammond/ctf-katana?tab=readme-ov-file#apk-forensics)
+
 [Another Playbook](https://github.com/apsdehal/aWEsoMe-cTf?tab=readme-ov-file#bruteforcers)
+
 [Anddd Another Playbook](https://github.com/uppusaikiran/awesome-ctf-cheatsheet?tab=readme-ov-file#netdiscover-scanning)
+
 [ANDDDDD ONE MORE PLAYBOOK](https://github.com/Slothkrew/ctf-playbook?tab=readme-ov-file#web-security) 
 
 Good Luck! 
@@ -103,7 +111,9 @@ Magistrate hosts images on their website check them out as they are good for pra
 Here are some practice images that you can use to prepare for the competition, test out your scripts or hone your skills. 
 
 [Mr.Robot Fedora Practice Image](https://ln5.sync.com/dl/3e4ff83c0/u2wyn5b9-yuthhkgw-dqhghbr4-qme8tqjx)
+
 [or here](https://drive.google.com/file/d/1QQYUdp1Qu1-0NXf7VHyiIMl2QY4X_izp/view)
+
 [more about the Fedora Image here (talks about some errors in the image, a writeup, and checksums)](https://tirefire.org/posts/fedora-practice/)
 
 
