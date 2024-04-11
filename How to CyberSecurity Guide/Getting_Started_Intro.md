@@ -26,23 +26,23 @@ SO TO STRESS THIS, WHEN YOU RESEARCH ANG GOOGLE GO IN DEPTH, DISECT AND UNDERSTA
 
 **Some key protocols and applications to reserach and know when going into the competition are:** 
 
-HTTP/S: Apache2, IIS
+- HTTP/S: Apache2, IIS
 
-DNS: Windows DNS, Bind9
+- DNS: Windows DNS, Bind9
 
-Remote Management: OpenSSH, RDP
+- Remote Management: OpenSSH, RDP
 
-Database Technology: MySQL/MariaDB, MSSQL 
+- Database Technology: MySQL/MariaDB, MSSQL 
 
-Mail: Exchange, MailEnable, Postfix, Sendmail
+- Mail: Exchange, MailEnable, Postfix, Sendmail
 
-File Sharing: FTP (vsFTPd, Filezilla, etc.), SMB (Samba, Windows SMB)
+- File Sharing: FTP (vsFTPd, Filezilla, etc.), SMB (Samba, Windows SMB)
 
-CMS: WordPress, Joomla
+- CMS: WordPress, Joomla
 
-VPN: OpenVPN
+- VPN: OpenVPN
 
-Identity Management: Active Directory Domain Services
+- Identity Management: Active Directory Domain Services
 
 
 # OS Familiarity
@@ -53,46 +53,46 @@ The majority of the competition tackles understanding the ins and outs of Linux 
 
 **Linux:**
 
-User and Password Management: /etc/passwd, /etc/group, /etc/shadow
+- User and Password Management: /etc/passwd, /etc/group, /etc/shadow
 
-Pluggable Authentication Modules (PAM)
+- Pluggable Authentication Modules (PAM)
 
-Tunable Kernel Parameters (Sysctl)
+- Tunable Kernel Parameters (Sysctl)
 
-Package Managers (APT/DNF)
+- Package Managers (APT/DNF)
 
-CRON
+- CRON
 
-Permissions
+- Permissions
 
-Systemd
+- Systemd
 
-Sudo
+- Sudo
 
-Polkit
+- Polkit
 
-UFW, Firewalld
+- UFW, Firewalld
 
-SElinus, Fail2Ban 
+- SElinux, Fail2Ban 
 
 
 **Windows:**
 
-Windows User Management
+- Windows Computer Management
 
-Local Security Policy
+- Local Security Policy
 
-Group Policy
+- Group Policy
 
-Registry Editor
+- Registry Editor
 
-Task Scheduler
+- Task Scheduler
 
-Windows Defender
+- Windows Defender
 
-Permissions
+- Permissions
 
-Service Manager
+- Service Manager
 
 
 # Learn to Baseline 
