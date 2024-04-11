@@ -1,6 +1,6 @@
 # Step By step on different things to learn :)
 
-#VMware 
+# VMware 
 
 So at first you should download VMWare Player 17 on your Windows or Linux Computer. 
 VMware Player is a hypervisor allowing us to use virtiualization software, basically it lets you runs machines, or images inside your computer. So you are running an operating system inside your operating system and they are working sepeartly so we do not affect the main computer. 
@@ -103,8 +103,7 @@ While at this stage PLEASE PLEASE, research what you dont know using google, Sta
 
 [Do NCAE Videos to get a more advanced grasp of Linux](https://www.ncaecybergames.org/tutorials/)
 
-[As well as follow these videos when learning concepts]() 
-
+[As well as follow these videos when learning concepts (Linux Crash Course is pretty good)](https://www.youtube.com/@LearnLinuxTV/videos)
 
 
 # Learning Windows 
@@ -117,15 +116,68 @@ While at this stage PLEASE PLEASE, research what you dont know using google, Sta
 
 # Scripting
 
+So scripting is going to be key to doing anything for cyberpatriot, other cybersecurity competitons, and anything system based. This section will cover scripting with BASH and Powershell but you can script in any programming language you want. I would use Go or Python for bigger secuirty tools or personal projects etc (will cover in the programming section) and Rust or C/C++ for system level or near system level programs, but for our purposes BASH (Linux) and Powershell (Windows) are going to be used. 
+
+Basically, scripting is just a way to communicate with the computer to execute desired program such as finding the time, changing permissions, finding info on X, etc. These scripts can get pretty complex but overall well worth using after building and throughly testing as they make your life so much easier. 
+
+Script whatever you want that you think will speed up your process and not blow up the machine, ex: applying kernel level parameters, this is dangerous and could break your machine if done incorrectly, but the mass applying of tedious commands is well worth it. An example of what not to script would be configuring in depth SQL as SQL databases could change depending on the system and this will casue you to break the database or lose points. (Basically configuring services on an in-depth level not worth it, applying their basic security commands though, absoultely) 
+
+Now thats out of the way heres how to script in BASH: 
+
+ - Note: scripting is just terminal commands with the added functionality of differnt programming conecepts such as functions, loop, algorithms, data structures and more. Anything that you do in a BASH script or Powershell script can be done by hand. 
+
+## BASH ## 
+
+[Bash Scripting Course](https://www.youtube.com/watch?v=2733cRPudvI&list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w)
+
+[Bash Scripting 1 hour Tutorial on the basics](https://www.youtube.com/watch?v=tK9Oc6AEnR4&pp=ygUTSG93IHRvIGJhc2ggc2NyaXB0IA%3D%3D)
+
+
+## PowerShell ## 
+
 # Hacking Resources :) 
 
 # Programming 
+
+Programming allows you to make more complex programs, tools, apps, etc, because they have more functionality and can run on basically any system that has a compiler or is web-based without needed the actual OS to run. Programming Languages also have more support, are tailored to a sepcific function like Python and its Librairies, Go and its ease of use, Javascript and its many frameworks for web development, so on and so forth. Langauages are tools know how to use 1 or 2 pretty well and then use the rest when necessary. 
+Also build fun stuff in your free time, anything that comes to mind do it. Maybe make some tools for this competition :3. 
+
+## Python ##
+
+For Python I would start off with CS50 course and then just do some basic google searches on how to program tools for the operating system and stuff (basically the libraries) 
+There will be some data analysis and AI/ML stuff in here because that is what I like to do defintely not needed or used for CyberPatriot though. 
+
+## JavaScript ## 
+This is THE web development language it has many intricries and used to set up websites and basically everything on the internet that you see (the front-end) as well as handle some API connections to and from the back-end. Learning the basics will be good as this is a big attack vector and can be exploited really easily if you do not securely program or some settings are just misconfigured. 
+
+
+## Go ##
+
+Go is used be big tech companies and more because Go ensures that your toolbox is compilable across all platforms and on all hardware, as well as, having high modularity, security, and simplicity. 
+
+## Rust ##
+Rust is the new system level programming langauge that is now being adopted due to how the program handles memory in a more secure way compared to C and C++. Memeory leaks, binary exploitation, and anything running on the systesm level is prone to being an attack vector. Using Rust will help you program on the system level in a secure manner as it limits alot of the human error in programming when handling memory. 
+
+## C# ##
+
+Used a ton to make games, if you want to do game development or make a game of your own definetly like into C# and Game engines like Godot or Unreal to make your very own game. 
+
+## C++ ##
+Used to program fast, high-performance low level applications. Bascially it is EVERYWHERE. 
+
+## C ##
+
+## Kotlin ##
+
+## Swift ## 
+
+## SQL ## 
 
 # Git and Github 
 
 Git and GitHub are tools widely sued by all cybersecurity specialsists, software developers and more. this is due to the fact that both of these contribute to the Version Control System, allowing people to collabortively store and work on code, see in depth changes, review code, and make test branches of the main code without messing up the main project. Overall, you will encounter Git and GitHub and they are amazing tools you should learn. 
 
-[Heres a tutorial on Git and GitHub]()
+[Heres a tutorial on Git and GitHub](https://www.youtube.com/watch?v=RGOj5yH7evk&t=1546s&pp=ygUcZ2l0IGFuZCBnaXRodWIgZnVsbCB0dXRvcmlhbA%3D%3D)
 
 # Baselining and STIGS
 
@@ -163,9 +215,6 @@ use third party tools and system package utilities to flag what files’ default
 
 [Privellage Escalation vuln scan script for Linux and Windows ( LinPeas and WinPeas OP use)](https://github.com/peass-ng/PEASS-ng)
 
-
-
-# Planning 
 
 # Practice Images
 
@@ -223,7 +272,7 @@ Here are some practice images that you can use to prepare for the competition, t
  
 **Windows**
 
-[My Little Pont Windows 10 Practice Image](https://cybervoid.me/projects/mlp/)
+[My Little Pony Windows 10 Practice Image](https://cybervoid.me/projects/mlp/)
 
 
 [Cinncinatti Zoo Windows 10](https://cybervoid.me/projects/cincinnati/)
@@ -232,7 +281,7 @@ Here are some practice images that you can use to prepare for the competition, t
 [Baldi's Basics Windows Server 2022](https://cybervoid.me/projects/baldi/)
 
 
-[King Arthur's Castle Server 2019 (This one's really hard try not doing without the answer key till you get 90% of the points)](https://drive.google.com/file/d/13OBAXsv408TQJ-WtNMc-mUEe2IBvI-UV/view?usp=share_link)
+[King Arthur's Castle Server 2019](https://drive.google.com/file/d/13OBAXsv408TQJ-WtNMc-mUEe2IBvI-UV/view?usp=share_link)
  - Main user Password CyberPatriot1!
  - [YT Video Walkthrough](https://www.youtube.com/watch?v=6DjIExkbVoE)
  -[Answer Key](https://docs.google.com/presentation/d/1zO4cRpTY2b6SQK55EVPe7XSQKe2YqA8pwq7TOeYOvxg/edit#slide=id.g1e0329b4e58_0_0)
@@ -266,7 +315,6 @@ Here are some practice images that you can use to prepare for the competition, t
 
 
 
-
 # Creating Your Own Images
 
 To create your own images use and develop your own vulnerabilites with these tools from Cyber Aegis, the number 1 team in Cyber Patriot like every year. 
@@ -276,6 +324,13 @@ To create your own images use and develop your own vulnerabilites with these too
 # Tools and programs to use 
 
 [Cyber Chef: its for de/encryption and de/encoding](https://gchq.github.io/CyberChef/)
+[Visul Stuido Code (The most code editor in the world) I use it as well due to its functionality and more]()
+
+These tools are pretty big and extensive but can be used to set up some crazy programs and complex stuff
+
+ - [Docker]()
+ - [Ansible]()
+ - [Terraform]()
 
 
 
