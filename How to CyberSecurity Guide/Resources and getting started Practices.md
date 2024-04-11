@@ -29,6 +29,7 @@ These are all the most recent versions of the product, if you want an older vers
 [Parrot](https://parrotlinux.org/download/) - another hacking OS 
 
 Windows Server VMs:
+
 [Windows Server 2014](https://drive.google.com/file/d/15ZlhfcHLvO0EhsJPaj3CBt9vTAcdz_0N/view?usp=sharing)
 
 [Windows Server 2016](https://drive.google.com/file/d/1kKYo8C_T0Xs4d_lZWpu-OO1ApYWcenUu/view?usp=sharing)
@@ -36,11 +37,8 @@ Windows Server VMs:
 [Windows Server 2019](https://drive.google.com/file/d/1yxeHNphxZwmdMr_FFPS08XkvLy1i_a7I/view?usp=sharing)
 
 Default credentials for Server VMS:
-
 User: Administrator
-
 Password: Cyb3rPatr1ot!@
-
 Password to unzip: Cyb3rPatr1ot!@
 
 
