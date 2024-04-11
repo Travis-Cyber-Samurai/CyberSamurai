@@ -73,14 +73,45 @@ Here are some resources to help however:
 
 [Anddd Another Playbook](https://github.com/uppusaikiran/awesome-ctf-cheatsheet?tab=readme-ov-file#netdiscover-scanning)
 
-[ANDDDDD ONE MORE PLAYBOOK](https://github.com/Slothkrew/ctf-playbook?tab=readme-ov-file#web-security) 
+[ANDDDDD ONE MORE PLAYBOOK](https://github.com/Slothkrew/ctf-playbook?tab=readme-ov-file#web-security)
+
+[Archived CyberStart Forensics](https://github.com/alphyos/CyberStart-2024)
 
 Good Luck! 
 
+# Cyber Patriot Curriculum 
+
+Not mine but the resources are good you should know all of this stuff that is linked here for the competition.
+
+note: Not all of it but for your specific target of security, or all of it, up to you. 
+
+[here](https://tirefire.org/posts/cyberpatriot-curriculum/)
 
 # Learning Linux 
 
+So to learn Linux(the best OS) honestly just start doing it, it is definetly going to be hard to get used to but by doing you will learn far more than trying to read about it and never actually attempting to learn how Linux works. Again, 90% of computers use a version of Linux, if you continue in tech YOU WILL ENCOUNTER LINUX, learn it. 
+
+[Start off with Linux Journey:](https://linuxjourney.com/)
+
+[then TryHackMe Courses](https://tryhackme.com/module/linux-fundamentals) 
+
+[To get even mroe familar with the Linux terminal do OvertheWire](https://overthewire.org/wargames/)
+
+At this point you can do the practice images, start scripting everything :3
+
+While at this stage PLEASE PLEASE, research what you dont know using google, StackOverFlow, and more. YOU WONT KNOW EVERYTHING SO PLEASE CONTINUE LEARNING. 
+
+[Do NCAE Videos to get a more advanced grasp of Linux](https://www.ncaecybergames.org/tutorials/)
+
+[As well as follow these videos when learning concepts]() 
+
+
+
 # Learning Windows 
+
+[To learn Powershell on Windows do UndertheWire](https://underthewire.tech/century)
+
+[Windows AD Basics](https://tryhackme.com/r/room/winadbasics)
 
 # Learning Cisco 
 
@@ -92,11 +123,47 @@ Good Luck!
 
 # Git and Github 
 
+Git and GitHub are tools widely sued by all cybersecurity specialsists, software developers and more. this is due to the fact that both of these contribute to the Version Control System, allowing people to collabortively store and work on code, see in depth changes, review code, and make test branches of the main code without messing up the main project. Overall, you will encounter Git and GitHub and they are amazing tools you should learn. 
+
+[Heres a tutorial on Git and GitHub]()
+
 # Baselining and STIGS
 
 Baselining is important as it bascially checks your system and goes, "hey how are you different from default or secure settings." Developing baseline scripts will overall make finding about 40-50% of points/vulnerabilities so much easier SO DO IT. 
 
+Note on Baselining for Linux: 
+
+use third party tools and system package utilities to flag what files’ default content has been changed. scan for permission issues by comparing a list of world-writable files on a clean system to the one on the challenge image, flagging any differences. This can be extended to other possible permission issues like SUIDs. There are countless other parts of the system that can be baselined, such as default systemd units, scheduled jobs, processes, and more. By baselining in the first hour, you will get a good understanding of what is actually wrong with the system. 
+
 [Lynis - Securitiy auditing and hardening tool for Linux/Unix](https://cisofy.com/lynis/)
+
+[Stig Viwer - Security settings machines](https://www.stigviewer.com/)
+
+[Meld - VIsual diff and merge tool (really good to make a script and then edit insecure files all at once](https://meldmerge.org/)
+
+[CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks)
+
+[Debain Family CIS Benchmark](https://www.cisecurity.org/benchmark/debian_family)
+
+[Securing Debian](https://www.debian.org/doc/manuals/securing-debian-manual/index.en.html)
+
+[Alma Linux CIS Benchmark](https://www.cisecurity.org/benchmark/almalinuxos_linux)
+
+[DOD Stig List (USE TRUST)](https://public.cyber.mil/stigs/downloads/)
+
+[Mitre Attack Framework (learn about all different types of cyber attacks)](https://attack.mitre.org/)
+
+[Hack Tricks - Use this as a checklist to hack into systems or secure them (know evil to do good :3)](https://book.hacktricks.xyz/linux-hardening/linux-privilege-escalation-checklist)
+
+[Old CIS Benchmarks (They are archived good place to find older system info)](https://github.com/cismirror/old-benchmarks-archive)
+
+[Hardening Ubuntu Script (REALLY NICE PLEASE USE)](https://github.com/konstruktoid/hardening)
+
+[Windows 10 Hardening](https://github.com/0x6d69636b/windows_hardening)
+
+[Privellage Escalation vuln scan script for Linux and Windows ( LinPeas and WinPeas OP use)](https://github.com/peass-ng/PEASS-ng)
+
+
 
 # Planning 
 
@@ -115,6 +182,9 @@ Here are some practice images that you can use to prepare for the competition, t
  - [or here](https://drive.google.com/file/d/1QQYUdp1Qu1-0NXf7VHyiIMl2QY4X_izp/view)
 
  - [more about the Fedora Image here (talks about some errors in the image, a writeup, and checksums)](https://tirefire.org/posts/fedora-practice/)
+
+
+[Bloom TD 6 Theme - Debian 10](https://www.mobmaker.xyz/cypat-images)
 
 
 [Ubuntu 18 Image - No Answer Key](https://drive.google.com/file/d/1ZLKf-DAij1VN6aFz6T5Z3fpGEpfxJWzo/view)
@@ -142,9 +212,12 @@ Here are some practice images that you can use to prepare for the competition, t
  - [Writeup of the image](https://github.com/Brycen-walker/CTF-Writeups/blob/main/imaginaryCTF-2023/syshardening-8/README.md)
 
 
-[Aperturn Science Ubuntu](https://drive.google.com/file/d/1_ZDn7K4Xy6pQ5YXWroqBkZoIdYfSivkT/view)
+[Aperture Science Ubuntu](https://drive.google.com/file/d/1_ZDn7K4Xy6pQ5YXWroqBkZoIdYfSivkT/view)
 
  - [Answer Key](https://drive.google.com/file/d/1FZvMhCCAt78CQvEpawQVtCBdh4umK-0f/view?usp=sharing)
+
+
+[Nevermore - Ubuntu 22.04](https://drive.google.com/file/d/1EW3hsjZMM--UtoFJuYBVbAMhUwU4Z8gn/view?usp=sharing)
 
 
  
