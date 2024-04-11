@@ -167,11 +167,16 @@ Used to program fast, high-performance low level applications. Bascially it is E
 
 ## C ##
 
+C is like 30 years old and has not changed much, like C++ is it everywhere but actually this time, its consistent, and doesnt change. It is everywhere, plus you can make some pretty nice malware on the system level with C, C++ and Rust. 
+
 ## Kotlin ##
+This is a Java like language that is used to develop apps on android devices. 
 
 ## Swift ## 
+This is Apple's programming language that is used to develop anythin in the Apple ecosystem. 
 
 ## SQL ## 
+There are many types of SQL databases as well as NoSQL but in general, SQL runs all databases around the world because of how it handles data and can be configured. Examples would be MySQL, PostgreSQL, ScallaDB ( this is what Discord uses) and more. 
 
 # Git and Github 
 
