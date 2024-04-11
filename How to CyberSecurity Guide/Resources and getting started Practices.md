@@ -232,7 +232,7 @@ Here are some practice images that you can use to prepare for the competition, t
 [Baldi's Basics Windows Server 2022](https://cybervoid.me/projects/baldi/)
 
 
-[King Arthur's Castle Server 2019](https://drive.google.com/file/d/13OBAXsv408TQJ-WtNMc-mUEe2IBvI-UV/view?usp=share_link)
+[King Arthur's Castle Server 2019 (This one's really hard try not doing without the answer key till you get 90% of the points)](https://drive.google.com/file/d/13OBAXsv408TQJ-WtNMc-mUEe2IBvI-UV/view?usp=share_link)
  - Main user Password CyberPatriot1!
  - [YT Video Walkthrough](https://www.youtube.com/watch?v=6DjIExkbVoE)
  -[Answer Key](https://docs.google.com/presentation/d/1zO4cRpTY2b6SQK55EVPe7XSQKe2YqA8pwq7TOeYOvxg/edit#slide=id.g1e0329b4e58_0_0)
