@@ -112,9 +112,9 @@ Here are some practice images that you can use to prepare for the competition, t
 
 [Mr.Robot Fedora Practice Image](https://ln5.sync.com/dl/3e4ff83c0/u2wyn5b9-yuthhkgw-dqhghbr4-qme8tqjx)
 
-[or here](https://drive.google.com/file/d/1QQYUdp1Qu1-0NXf7VHyiIMl2QY4X_izp/view)
+ - [or here](https://drive.google.com/file/d/1QQYUdp1Qu1-0NXf7VHyiIMl2QY4X_izp/view)
 
-[more about the Fedora Image here (talks about some errors in the image, a writeup, and checksums)](https://tirefire.org/posts/fedora-practice/)
+ - [more about the Fedora Image here (talks about some errors in the image, a writeup, and checksums)](https://tirefire.org/posts/fedora-practice/)
 
 
 [Ubuntu 18 Image - No Answer Key](https://drive.google.com/file/d/1ZLKf-DAij1VN6aFz6T5Z3fpGEpfxJWzo/view)
