@@ -1,6 +1,6 @@
 # Step By step on different things to learn :)
 
-# Table of Contents 
+Click the three lined part in the type rght of the file it will help you naviagte around the MD file. (its a table of contents)
 
 # VMware 
 
