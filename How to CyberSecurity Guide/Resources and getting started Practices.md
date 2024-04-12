@@ -137,6 +137,39 @@ Now thats out of the way heres how to script in BASH:
 
 # Hacking Resources :) 
 
+To do good you must know evil. Honestly hacking is one, pretty amazing and a lot of fun, two, you will lean invaluable skills that will help you on a path to becoming a penetration tester or red team member. Lastly, just knowing how to do these attacks will help you secure your computer, network, system, hardware, etc more effectively, as well as actively respond to red team attacks when doing some of the more advanced competitions. Almost all red team activities are done on Linux, specifically Kali Linux or Parrot Linux. 
+
+TryHackMe also has red team and penetration testing courses that will really help you in learning.
+[Here](https://tryhackme.com/r/hacktivities)
+
+HackTheBox is also another great resource that will help practice live red team challenged with images etc, its a gamified way to learn hacking pretty neat. 
+[here](https://www.hackthebox.com/)
+
+HackerSploit is a youtuve channel that covers so much stuff with red teaming and hacking that you can find almost anything on there. He also explains things in a easy to understand way.
+[here](https://www.youtube.com/HackerSploit/playlists)
+
+crow is another youtuber I like a lot as he coveres a lot of concepts that relate to malware analysis and malware development. You shoudl be able to jump off what he talks about in his videos and find more advanced techniques to making or analyzing malware. 
+[here](https://www.youtube.com/@crr0ww/playlists)
+
+Nielsen Networkign help me learn hacking tools like Nmap to map and understand what is going on in a network as well as its vulnerablities, super good resource to learning tools that are present in Kali. 
+[here](https://www.youtube.com/@NNAdmin)
+
+Literal 0 to hero guide on ethical hacking, web apps, OSINT, and so much more, highly recommend. 
+[here](https://www.youtube.com/watch?v=sH4JCwjybGs&list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47&index=3)
+
+REMnux is a Linux toolkit for malware analysis, it used for deploying and studying malware as well as reverse enginnering it in a safe contained eviornment with a suite of tools that investigate the malware. Download it and deply the VM as well as follow a tutorial on how to properly set this up ( you dont malware on your computer.)
+[here](https://remnux.org/)
+
+Flware-Vm is basically REMnux but for Windows, follow Crows intro to Malware analysis to get flare set up as well as this GitHub page on there documentation and programs.
+[here](https://github.com/mandiant/flare-vm/blob/main/README.md)
+
+Linux for Ethical Hackers (Kali Linux Tutorial) gets yous started on how to use Kali Linux.
+[here](https://www.youtube.com/watch?v=lZAoFs75_cs)
+
+
+
+
+
 # Programming 
 
 Programming allows you to make more complex programs, tools, apps, etc, because they have more functionality and can run on basically any system that has a compiler or is web-based without needed the actual OS to run. Programming Languages also have more support, are tailored to a sepcific function like Python and its Librairies, Go and its ease of use, Javascript and its many frameworks for web development, so on and so forth. Langauages are tools know how to use 1 or 2 pretty well and then use the rest when necessary. 
