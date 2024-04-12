@@ -1,5 +1,7 @@
 # Step By step on different things to learn :)
 
+# Table of Contents 
+
 # VMware 
 
 So at first you should download VMWare Player 17 on your Windows or Linux Computer. 
@@ -173,43 +175,76 @@ Linux for Ethical Hackers (Kali Linux Tutorial) gets yous started on how to use 
 # Programming 
 
 Programming allows you to make more complex programs, tools, apps, etc, because they have more functionality and can run on basically any system that has a compiler or is web-based without needed the actual OS to run. Programming Languages also have more support, are tailored to a sepcific function like Python and its Librairies, Go and its ease of use, Javascript and its many frameworks for web development, so on and so forth. Langauages are tools know how to use 1 or 2 pretty well and then use the rest when necessary. 
-Also build fun stuff in your free time, anything that comes to mind do it. Maybe make some tools for this competition :3. 
+Also build fun stuff in your free time, anything that comes to mind do it. Maybe make some tools for this competition :3. Projects are the way to learn, develop your own projects and you will learn a lot faster than if you did not. 
+
+[Download VS Code and heres a tutorial to VS Code](https://code.visualstudio.com/docs/introvideos/basics)
 
 ## Python ##
 
 For Python I would start off with CS50 course and then just do some basic google searches on how to program tools for the operating system and stuff (basically the libraries) 
 There will be some data analysis and AI/ML stuff in here because that is what I like to do defintely not needed or used for CyberPatriot though. 
 
+[here](https://cs50.harvard.edu/python/2022/) 
+
+do this course and then start programming on your own :) 
+
+[AI/ML and datascience community | Kaggle allows you to basically learn and code AI's](https://www.kaggle.com/)
+
+Some libraires to use in python for AI are Numpy, MathPlotLib, Pandas. 
+Some AI Frameworks to use are Pytorch and TensorFlow 
+
+
 ## JavaScript ## 
 This is THE web development language it has many intricries and used to set up websites and basically everything on the internet that you see (the front-end) as well as handle some API connections to and from the back-end. Learning the basics will be good as this is a big attack vector and can be exploited really easily if you do not securely program or some settings are just misconfigured. 
+
+The odin project teachs you from nothing to full stack web development. 
+[Here](https://www.theodinproject.com/)
 
 
 ## Go ##
 
-Go is used be big tech companies and more because Go ensures that your toolbox is compilable across all platforms and on all hardware, as well as, having high modularity, security, and simplicity. 
+Go is used be big tech companies and more because Go ensures that your toolbox is compilable across all platforms and on all hardware, as well as, having high modularity, security, and simplicity.
+
+[tour of the go language](https://go.dev/tour/welcome/1)
+[Actually programming in go docs](https://go.dev/doc/effective_go)
 
 ## Rust ##
-Rust is the new system level programming langauge that is now being adopted due to how the program handles memory in a more secure way compared to C and C++. Memeory leaks, binary exploitation, and anything running on the systesm level is prone to being an attack vector. Using Rust will help you program on the system level in a secure manner as it limits alot of the human error in programming when handling memory. 
+Rust is the new system level programming langauge that is now being adopted due to how the program handles memory in a more secure way compared to C and C++. Memeory leaks, binary exploitation, and anything running on the systesm level is prone to being an attack vector. Using Rust will help you program on the system level in a secure manner as it limits alot of the human error in programming when handling memory.
+
+[Rustlings course (learn how to use Rust)](https://github.com/rust-lang/rustlings/)
 
 ## C# ##
 
 Used a ton to make games, if you want to do game development or make a game of your own definetly like into C# and Game engines like Godot or Unreal to make your very own game. 
 
+[Program a simple RPG in C#](https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/)
+for more in depth games, use game engines like Godot or Unreal, to learn them just youtube and watch some tutorials. 
+
 ## C++ ##
 Used to program fast, high-performance low level applications. Bascially it is EVERYWHERE. 
 
+[C++ Course](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+
 ## C ##
 
-C is like 30 years old and has not changed much, like C++ is it everywhere but actually this time, its consistent, and doesnt change. It is everywhere, plus you can make some pretty nice malware on the system level with C, C++ and Rust. 
+C is like old and has not changed much, like C++ is it everywhere but actually this time, its consistent, and doesnt change. It is everywhere, plus you can make some pretty nice malware on the system level with C, C++ and Rust. 
+
+[C Course](https://www.learn-c.org/)
 
 ## Kotlin ##
 This is a Java like language that is used to develop apps on android devices. 
 
+[Kotlin Projects](https://kotlinlang.org/docs/getting-started.html#create-your-powerful-application-with-kotlin)
+
 ## Swift ## 
-This is Apple's programming language that is used to develop anythin in the Apple ecosystem. 
+This is Apple's programming language that is used to develop anythin in the Apple ecosystem.
+
+[Developing in Swift](https://developer.apple.com/tutorials/develop-in-swift)
 
 ## SQL ## 
-There are many types of SQL databases as well as NoSQL but in general, SQL runs all databases around the world because of how it handles data and can be configured. Examples would be MySQL, PostgreSQL, ScallaDB ( this is what Discord uses) and more. 
+There are many types of SQL databases as well as NoSQL but in general, SQL runs all databases around the world because of how it handles data and can be configured. Examples would be MySQL, PostgreSQL, ScallaDB ( this is what Discord uses) and more.
+
+[basics of SQL](https://sqlbolt.com/)
 
 # Git and Github 
 
