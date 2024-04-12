@@ -150,6 +150,6 @@ As our team develops to a full team of 6, there are different roles that you sho
   -  Another advantages of this competitor include their fresh perspectives, solutions, and/or             assistance. This could include identifying workarounds for a broken system mechanism on the Linux       machine or offering to assist with more mundane, yet important tasks, allowing specialized             competitors to focus on more complex matters.
 
 
-#Last Note:
+# Last Note:
 
   REMEMBER TO ENJOY THE PROCESS AND PRACTICE EARLY AND OFTEN FOR THE COMPETITION AND ANYTHING ELSE YOU WANT TO LEARN. Have Fun :3 
