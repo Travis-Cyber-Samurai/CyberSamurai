@@ -130,6 +130,8 @@ While at this stage PLEASE PLEASE, research what you dont know using google, Sta
 
 Literally heres all the resources you need for [Cisco](https://drive.google.com/drive/folders/1hbDy6Iz5zykhKjvnVqDmeTnxZbYPfCw2?usp=drive_link)
 
+We will sign you up for Netacad, the place you will learn the most and where you can download the packet tracer tool to start configuring virtual networks. 
+
 # Scripting
 
 So scripting is going to be key to doing anything for cyberpatriot, other cybersecurity competitons, and anything system based. This section will cover scripting with BASH and Powershell but you can script in any programming language you want. I would use Go or Python for bigger secuirty tools or personal projects etc (will cover in the programming section) and Rust or C/C++ for system level or near system level programs, but for our purposes BASH (Linux) and Powershell (Windows) are going to be used. 
