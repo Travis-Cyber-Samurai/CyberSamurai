@@ -110,11 +110,25 @@ While at this stage PLEASE PLEASE, research what you dont know using google, Sta
 
 # Learning Windows 
 
+[Sysinternals](https://learn.microsoft.com/en-us/sysinternals/)
+
+[LGPO](https://www.youtube.com/watch?v=PGSp542grjA)
+
+[LGPO on Server](https://www.youtube.com/watch?v=MrlIEDLo0uw)
+
+[Exporting and importing LGPO](https://www.youtube.com/watch?v=6osmeT7Yzr8)
+
+[Find baseline LGPO for different Windows machines](https://www.microsoft.com/en-us/download/details.aspx?id=53353)
+
+[The Windows Guide](https://drive.google.com/file/d/1qmK4WM1ZUSlGAROF04RZ5mzL64uH8RQx/view?usp=drive_link)
+
 [To learn Powershell on Windows do UndertheWire](https://underthewire.tech/century)
 
 [Windows AD Basics](https://tryhackme.com/r/room/winadbasics)
 
 # Learning Cisco 
+
+Literally heres all the resources you need for [Cisco](https://drive.google.com/drive/folders/1hbDy6Iz5zykhKjvnVqDmeTnxZbYPfCw2?usp=drive_link)
 
 # Scripting
 
